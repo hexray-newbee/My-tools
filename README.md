@@ -89,6 +89,7 @@
 [H264BSAnalyzer](https://github.com/latelee/H264BSAnalyzer)  
 [Privoxy](https://www.privoxy.org/)  
 [Rebex Tiny SFTP Server (free)](https://labs.rebex.net/tiny-sftp-server)  
+[qBittorrent](https://www.qbittorrent.org/download.php)  
 
 # Visual Studio 2013
 [CMake Tools for Visual Studio](https://visualstudiogallery.msdn.microsoft.com/6d1586a9-1c98-4ac7-b54f-7615d5f9fbc7)  
