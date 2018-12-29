@@ -84,7 +84,6 @@
 [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/)  
 [CrystalDiskMark](https://crystalmark.info/en/download/)  
 [AS SSD Benchmark](https://www.techspot.com/downloads/6014-as-ssd-benchmark.html)  
-[MyDM](http://mydownload.ml/)  
 [Pan Download](http://pandownload.com/)  
 [H264BSAnalyzer](https://github.com/latelee/H264BSAnalyzer)  
 [Privoxy](https://www.privoxy.org/)  
